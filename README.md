@@ -23,3 +23,5 @@
 - User Storys in Tabellenform 	30 min
 - Zusammenfassung Vorlesung 1 Stunde
 
+### 24.11.2017
+- Use-Case Diagramme erstellen	90 min
