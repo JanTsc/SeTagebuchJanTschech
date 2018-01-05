@@ -25,3 +25,28 @@
 
 ### 24.11.2017
 - Use-Case Diagramme erstellen	90 min
+
+### 29.11.2017
+- Aktivitätsdiagramme 60min
+- phpMyAdmin einarbeitung 30 min
+
+### 01.12.2017
+- Wöchentliches Meeting 60min
+
+### 07.12.2017
+- Analyseklassendiagramm
+
+### 08.12.2017
+- Wöchentliches Meeting
+
+### 15.12.2017
+- Wöchentliches Meeting
+
+### 20.12.2017
+- Vorlesung vorbereiten 90 min
+
+### 05.01.2017
+- Meta Klassendiagramme 105 min
+
+### 05.01.2017
+- Wöchentliches Meeting 60 min
