@@ -50,3 +50,9 @@
 
 ### 05.01.2017
 - Wöchentliches Meeting 60 min
+
+### 24.01.2017
+- Vorlesung zusammenfassen 60 min
+
+### 25.01.2017
+- Erstellung erste Folien für die Präsentation 30 min
